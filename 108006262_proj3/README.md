@@ -31,8 +31,7 @@ Apply the knowledge learned form the course of data structure and implement a co
 
 ### Algorithm_ST
 
-*  The algorithm_ST.cpp file is where you need to impliment your algorithm.
-*  All the constrains and support funcitons is commented in the file, please check the [algorithm_ST.cpp](/source/algorithm_ST.cpp) for more information.
+*  The algorithm_ST.cpp file is the algorithm designed using minimax.
 
 ### Submit
 
