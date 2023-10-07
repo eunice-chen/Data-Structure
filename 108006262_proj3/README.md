@@ -32,9 +32,3 @@ Apply the knowledge learned form the course of data structure and implement a co
 ### Algorithm_ST
 
 *  The algorithm_ST.cpp file is the algorithm designed using minimax.
-
-### Submit
-
-*  All you need to do is complete the algorithm_ST.cpp with correct return format.
-*  Any other modifies "will not" be compiled in TA's computer.(except algorithm_ST.cpp)
-*  But we do not restrict you from modifying any part of the framwork. You can do whatever you want to speed up your developement.
