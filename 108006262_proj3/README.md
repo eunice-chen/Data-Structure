@@ -20,14 +20,13 @@ Apply the knowledge learned form the course of data structure and implement a co
 *  The main data flow is in the chain_reaction.cpp. 
 *  The following three lines of code are used to declare the variable board, red player and blue player.<br></br>
 
-![Variable Declaration](/images/002.png)
+[Variable Declaration]
 
 *  Firstly, the program will call your function which "should" return a board index (i, j).
 *  Then the program will call place_orb function to put your orb on the index that obtained from your algorithm.
 *  If a players' placement is illegal, the program will terminate immediately and annouce the winner.
 *  If a players' last placement dominate the hole board, the program will terminate immediately and annouce the winner.
 
-![Player action](/images/001.png)
 
 ### Algorithm_ST
 
